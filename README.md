@@ -1,4 +1,4 @@
-### Hi there 👋
+### The Idea of Work and the Work of Ideas
 
 <!--
 **RisibleQ/RisibleQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
